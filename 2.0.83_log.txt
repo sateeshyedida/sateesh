@@ -1,0 +1,39 @@
+SQL> @updates.sql
+
+Table altered.
+
+
+Table created.
+
+
+Grant succeeded.
+
+
+Grant succeeded.
+
+
+Table created.
+
+
+Index created.
+
+
+Grant succeeded.
+
+
+Grant succeeded.
+
+
+1 row created.
+
+
+1 row created.
+
+
+1 row created.
+
+SQL> commit;
+
+Commit complete.
+
+SQL> spool off;
